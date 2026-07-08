@@ -535,3 +535,4 @@ while True:
         break
     else:
         print("\nsilahkan pilih nomor yang tersedia!")
+        print ()

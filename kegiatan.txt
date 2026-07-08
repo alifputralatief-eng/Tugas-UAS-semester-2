@@ -1,0 +1,58 @@
+Leadership Summit Mahasiswa,12-06-2026,Presiden BEM,Seminar
+Audiensi Rektorat & Dekan,15-06-2026,Presiden BEM,Rapat
+BEM Goes to School,18-06-2026,Presiden BEM,Sosial
+Rakernas BEM,20-06-2026,Presiden BEM,Rapat
+Dies Natalis Kampus,25-06-2026,Presiden BEM,Event
+Forum Aspirasi Mahasiswa,28-06-2026,Presiden BEM,Diskusi
+
+Koordinasi Lintas Kementerian,02-07-2026,Wakil Presiden BEM,Rapat
+Evaluasi Kinerja Berkala,05-07-2026,Wakil Presiden BEM,Evaluasi
+Pelatihan Manajemen Organisasi,08-07-2026,Wakil Presiden BEM,Pelatihan
+Forum Silaturahmi BEM & UKM,10-07-2026,Wakil Presiden BEM,Diskusi
+Roadshow BEM ke Fakultas,13-07-2026,Wakil Presiden BEM,Sosial
+Laporan Tahunan BEM,15-07-2026,Wakil Presiden BEM,Administrasi
+
+Sistem Administrasi Digital,18-07-2026,Sekretaris BEM,Administrasi
+Pembuatan Database Pengurus,20-07-2026,Sekretaris BEM,Administrasi
+Workshop Notulensi & Persuratan,22-07-2026,Sekretaris BEM,Workshop
+Buletin BEM Bulanan,25-07-2026,Sekretaris BEM,Publikasi
+Perpustakaan Arsip BEM,27-07-2026,Sekretaris BEM,Administrasi
+SOP Administrasi BEM,30-07-2026,Sekretaris BEM,Pelatihan
+
+Pelatihan Manajemen Keuangan,02-08-2026,Kementerian Keuangan,Pelatihan
+Transparansi Laporan Keuangan,05-08-2026,Kementerian Keuangan,Evaluasi
+Fundraising BEM,08-08-2026,Kementerian Keuangan,Kewirausahaan
+Bazar Amal Mahasiswa,10-08-2026,Kementerian Keuangan,Sosial
+Workshop Literasi Keuangan,13-08-2026,Kementerian Keuangan,Workshop
+Audit Internal Keuangan,15-08-2026,Kementerian Keuangan,Evaluasi
+
+Seminar Riset Mahasiswa,18-08-2026,Kementerian Riset & Pengembangan,Seminar
+Pelatihan Penulisan Jurnal Ilmiah,20-08-2026,Kementerian Riset & Pengembangan,Pelatihan
+Kompetisi Karya Tulis Ilmiah (KKTI),23-08-2026,Kementerian Riset & Pengembangan,Lomba
+Kunjungan ke Lembaga Riset,25-08-2026,Kementerian Riset & Pengembangan,Kunjungan
+Jurnal Mahasiswa BEM,28-08-2026,Kementerian Riset & Pengembangan,Publikasi
+Hackathon & Innovation Challenge,30-08-2026,Kementerian Riset & Pengembangan,Lomba
+
+Liga Olahraga Antar Prodi,02-09-2026,Kementerian Olahraga,Lomba
+Senam Massal Rutin,05-09-2026,Kementerian Olahraga,Olahraga
+Olimpiade Kampus,08-09-2026,Kementerian Olahraga,Lomba
+Pelatihan Cabang Olahraga Baru,10-09-2026,Kementerian Olahraga,Pelatihan
+Sport Camp & Outbound,13-09-2026,Kementerian Olahraga,Olahraga
+Seleksi Atlet Kampus,15-09-2026,Kementerian Olahraga,Seleksi
+
+Pagelaran Seni Budaya Nusantara,18-09-2026,Kementerian Seni & Budaya,Seni
+Festival Film Pendek Mahasiswa,20-09-2026,Kementerian Seni & Budaya,Film
+Workshop Seni Rupa & Kreatif,23-09-2026,Kementerian Seni & Budaya,Workshop
+Malam Penghargaan Seni,25-09-2026,Kementerian Seni & Budaya,Event
+Kolaborasi Budaya Lintas Daerah,28-09-2026,Kementerian Seni & Budaya,Budaya
+Pameran Seni Mahasiswa,30-09-2026,Kementerian Seni & Budaya,Pameran
+
+Bakti Sosial ke Masyarakat,02-10-2026,Kementerian Sosial,Sosial
+Gerakan Donor Darah,05-10-2026,Kementerian Sosial,Sosial
+Beasiswa BEM Peduli,08-10-2026,Kementerian Sosial,Sosial
+Posko Bantuan Bencana,10-10-2026,Kementerian Sosial,Sosial
+Mahasiswa Mengajar,13-10-2026,Kementerian Sosial,Pendidikan
+
+Entrepreneur Boot Camp,15-10-2026,Kementerian Wirausaha,Pelatihan
+Bazar Produk UMKM Mahasiswa,18-10-2026,Kementerian Wirausaha,Kewirausahaan
+Mentoring Bisnis dengan Investor,20-10-2026,Kementerian Wirausaha,Workshop

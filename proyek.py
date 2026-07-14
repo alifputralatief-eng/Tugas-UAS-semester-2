@@ -3,7 +3,6 @@
 # 2. Queue
 # 3. Dictionary
 # 4. file txt
-
 class NodeKegiatan:
     def __init__(self, nama, tanggal, pj, jenis):
         self.nama = nama

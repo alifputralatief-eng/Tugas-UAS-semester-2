@@ -10,6 +10,7 @@ class NodeKegiatan:
         self.pj = pj
         self.jenis = jenis
         self.next = None
+        
 class LinkedListKegiatan:
     def __init__(self):
         self.head = None
@@ -322,6 +323,7 @@ def tambah_peserta():
                     if kegiatan.lower() == item.lower():
                         sudah_ikut = True
                         break
+
 
         if sudah_ikut:
             print("\nMahasiswa sudah mengikuti kegiatan tersebut, silakan pilih kegiatan lain!")

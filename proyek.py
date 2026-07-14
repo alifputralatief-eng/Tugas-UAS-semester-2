@@ -374,11 +374,9 @@ def statistik():
 
         for kegiatan in daftar_kegiatan:
             kegiatan = kegiatan.strip()
-
             # cek apakah kegiatan ada di linked list
             cek = data_kegiatan.head
             valid = False
-
             while cek:
                 if kegiatan.lower() == cek.nama.lower():
                     valid = True
@@ -387,7 +385,6 @@ def statistik():
 
             if not valid:
                 continue
-
             if kegiatan in hitung_kegiatan:
                 hitung_kegiatan[kegiatan] += 1
             else:

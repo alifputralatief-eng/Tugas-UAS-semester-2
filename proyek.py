@@ -437,9 +437,7 @@ def statistik():
         daftar_kegiatan = data["kegiatan"].split("|")
 
         for kegiatan in daftar_kegiatan:
-
             kegiatan = kegiatan.strip()
-
             cek = data_kegiatan.head
             valid = False
 
@@ -448,12 +446,10 @@ def statistik():
                     valid = True
                     break
                 cek = cek.next
-
             if valid:
                 jumlah_kegiatan_valid += 1
 
         hitung_mahasiswa[data["nama"]] = jumlah_kegiatan_valid
-
     list_mahasiswa = []
 
     for nama, jumlah in hitung_mahasiswa.items():

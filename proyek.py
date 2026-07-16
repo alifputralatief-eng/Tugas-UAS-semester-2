@@ -179,9 +179,9 @@ with open("kegiatan.txt", "r") as file:
             pj = bagian[2]
             jenis = bagian[3]
             data_kegiatan.tambah_kegiatan(nama, tanggal, pj, jenis)
-# =========================================
+
 # MEMBACA FILE evaluasi.txt
-# =========================================
+
 with open("evaluasi.txt", "r") as file:
     for baris in file:
         baris = baris.strip()
@@ -194,10 +194,10 @@ with open("evaluasi.txt", "r") as file:
             kegiatan = bagian[2]
             data = {"nim": nim,"nama": nama,"kegiatan": kegiatan}
             data_evaluasi.enqueue(data)
-# =========================================
+
 # TAMBAH KEGIATAN BARU
 # otomatis masuk kegiatan.txt
-# =========================================
+
 def tambah_kegiatan_baru():
     print("\n===== TAMBAH KEGIATAN =====")
     nama = input("Nama kegiatan       : ").strip()
@@ -236,10 +236,10 @@ def tambah_kegiatan_baru():
 
         file.write(f"\n{nama},{tanggal},{pj},{jenis}")
     print("\nKegiatan berhasil ditambahkan!")
-# =========================================
+
 # TAMBAH MAHASISWA BARU
 # otomatis masuk mahasiswa.txt
-# =========================================
+
 def tambah_mahasiswa_baru():
     print("\n===== TAMBAH MAHASISWA =====")
     nim = input("Masukkan NIM  : ").strip()
@@ -275,10 +275,10 @@ def tambah_mahasiswa_baru():
         file.write(f"\n{nim},{nama.upper()}")
     print("\nMahasiswa berhasil ditambahkan!")
 
-# =========================================
+
 # TAMBAH PESERTA KEGIATAN
 # otomatis masuk evaluasi.txt
-# =========================================
+
 def tambah_peserta():
     print("\n===== TAMBAH PESERTA =====")
 
@@ -364,9 +364,9 @@ def tambah_peserta():
 def statistik():
     print("========== STATISTIK =============")
 
-    # =====================================
+    
     # HITUNG KEGIATAN PALING DIMINATI
-    # =====================================
+   
     hitung_kegiatan = {}
 
     for data in data_evaluasi.queue:
